@@ -1,0 +1,14 @@
+C:\Users\Ekaterina\Desktop\3 cem\Laba_1\Laba_1\bin\Debug\Laba_1.exe.config
+C:\Users\Ekaterina\Desktop\3 cem\Laba_1\Laba_1\obj\Debug\Laba_1.csprojResolveAssemblyReference.cache
+C:\Users\Ekaterina\Desktop\3 cem\Laba_1\Laba_1\obj\Debug\Laba_1.csproj.CoreCompileInputs.cache
+C:\Users\Ekaterina\Desktop\3 cem\Laba_1\Laba_1\bin\Debug\Laba_1.exe
+C:\Users\Ekaterina\Desktop\3 cem\Laba_1\Laba_1\bin\Debug\Laba_1.pdb
+C:\Users\Ekaterina\Desktop\3 cem\Laba_1\Laba_1\obj\Debug\Laba_1.exe
+C:\Users\Ekaterina\Desktop\3 cem\Laba_1\Laba_1\obj\Debug\Laba_1.pdb
+C:\Users\user\Downloads\лабы\3 cem\Laba_1\Laba_1\bin\Debug\Laba_1.exe.config
+C:\Users\user\Downloads\лабы\3 cem\Laba_1\Laba_1\bin\Debug\Laba_1.exe
+C:\Users\user\Downloads\лабы\3 cem\Laba_1\Laba_1\bin\Debug\Laba_1.pdb
+C:\Users\user\Downloads\лабы\3 cem\Laba_1\Laba_1\obj\Debug\Laba_1.csprojAssemblyReference.cache
+C:\Users\user\Downloads\лабы\3 cem\Laba_1\Laba_1\obj\Debug\Laba_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\лабы\3 cem\Laba_1\Laba_1\obj\Debug\Laba_1.exe
+C:\Users\user\Downloads\лабы\3 cem\Laba_1\Laba_1\obj\Debug\Laba_1.pdb
